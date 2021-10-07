@@ -1,0 +1,16 @@
+Inicio de la cache:
+ETQ: FF || Datos: 00 00 00 00 00 00 00 00
+ETQ: FF || Datos: 00 00 00 00 00 00 00 00
+ETQ: FF || Datos: 00 00 00 00 00 00 00 00
+ETQ: FF || Datos: 00 00 00 00 00 00 00 00
+
+Leyendo el fichero 'RAM.bin'...
+	Fichero 'RAM.bin' leido correctamente.
+
+
+Leyendo el fichero 'accesos_memoria.txt'...
+	Fichero 'accesos_memoria.txt' leido correctamente.
+
+
+Comparando etiqueta de la cache y etiqueta de la direccion de memoria...
+	T: 0 | Acierto de CACHE | ADDR 0000 | ETQ 0 | Linea FFFFCCD0 | Palabra 00 | DATO 00
